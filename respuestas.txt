@@ -1,3 +1,5 @@
 
 Ejercicio 2 - cd examen
 Ejercico 3 - grep -n "SI" Alumnos.txt
+Ejercicio 6 - grep -v "NOMBRES" Alumnos.txt
+
